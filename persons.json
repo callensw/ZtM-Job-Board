@@ -96,3 +96,19 @@
       "country": "The Netherlands"
     }
   }
+  ,{
+    "id": 1005,
+    "name": "Chase Allensworth",
+    "img": "",
+    "links": {
+      "website": "chaseallensworth.com",
+      "linkedin": "linkedin.com/in/chaseallensworth",
+      "github": "github.com/callensw"
+    },
+    "jobTitle": "Machine Learning Engineer",
+    "location": {
+      "city": "Rogers",
+      "state": "Arkansas",
+      "country": "United States"
+    }
+  }
